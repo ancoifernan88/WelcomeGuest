@@ -1,1 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <script> function myFunction() {
+  alert("done paying")
+}
+ </script>
+  </body>
+</html><button id=“button6” onclick="myFunction()">
+vouchers trial for two minutes!
+</button>
 
